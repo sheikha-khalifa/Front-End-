@@ -1,0 +1,19 @@
+.box {
+    border-radius: 10px;
+    text-align: center;
+background-color: black;
+color: aliceblue;
+}
+
+.custom {
+    text-align: center;
+    border-radius: 5px;
+}
+
+#booklist li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 10;
+    margin-top: 20px;
+}
